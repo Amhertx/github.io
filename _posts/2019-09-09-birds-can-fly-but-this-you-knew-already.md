@@ -13,11 +13,9 @@ tags:
 author: Amhertx
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+  经过一段时间的忙碌，我的个人blog终于能上线了，好久以前就想要有一个自己的blog，在<strong>OldmenPlus</strong>的帮助下，终于实现了这个想法，
+  拥有了 这个<strong>blog</strong>后，我可以在这里分享并记录一些生活和工作中遇到的问题，同时也可以记录一些技术上的问题
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
-
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
 
 ## Inline HTML elements
 
