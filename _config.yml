@@ -7,14 +7,13 @@ tags:
   - template
   - jekyll
   - theme
-  - netlify
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
 menu:
-  - title: Home
+  - title: 主页
     url: /
-  - title: About
+  - title: 关于
     url: /about
   - title: Contact
     url: /contact
@@ -24,7 +23,7 @@ menu:
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
+github_username: Amhertx
 facebook_username: facebook_username
 twitter_username: twitter_username
 instagram_username: instagram_username
