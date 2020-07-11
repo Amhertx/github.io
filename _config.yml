@@ -10,7 +10,7 @@ tags:
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
-菜单:
+menu:
   - title: 主页
     url: /
   - title: 关于
