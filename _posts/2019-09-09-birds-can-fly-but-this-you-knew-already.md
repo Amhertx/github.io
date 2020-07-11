@@ -4,8 +4,8 @@ layout: post
 title: 个人blog开张啦 ！
 subtitle: 经过一段忙碌的时间，我的个人blog终于上线了
 description: 经过一段忙碌的时间，我的个人blog终于上线了，感谢OldmenPlus的帮助。
-image: https://i0.hdslb.com/bfs/article/dcc546a7f56ee1c1c87403f90fb2a6b1a6907bcf.jpg@1320w_2346h.webp
-optimized_image: https://i0.hdslb.com/bfs/article/dcc546a7f56ee1c1c87403f90fb2a6b1a6907bcf.jpg@1320w_2346h.webp
+image: https://i0.hdslb.com/bfs/article/f17f5a4105f706ecfc04eb36de36010bea29d3cd.jpg@1320w_990h.webp
+optimized_image: https://i0.hdslb.com/bfs/article/f17f5a4105f706ecfc04eb36de36010bea29d3cd.jpg@1320w_990h.webp
 category: 生活
 tags:
   - 生活
