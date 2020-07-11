@@ -1,16 +1,16 @@
 ---
-date: 2010-09-10 12:26:40
+date: 2020-06-28 12:26:40
 layout: post
 title: 个人blog开张啦 ！
 subtitle: 经过一段忙碌的时间，我的个人blog终于上线了
 description: 经过一段忙碌的时间，我的个人blog终于上线了，感谢OldmenPlus的帮助。
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559825145/theme16_o0seet.jpg
-category: life
+category: 生活
 tags:
-  - life
-  - tips
-author: thiagorossener
+  - 生活
+  - 日志
+author: Amhertx
 ---
 
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
