@@ -1,23 +1,23 @@
 # Site Settings
 name: Amhertx的blog
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+title: Amhertx的个人堡垒
+description: 法老之鹰捉小鸡
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
+  - 生活
+  - 数码
+  - 美食
 email: youremail@xyz.com
 disqus_username: disqus_username
 show_hero: true
-menu:
+菜单:
   - title: 主页
     url: /
   - title: 关于
     url: /about
-  - title: Contact
+  - title: 联系我
     url: /contact
-  - title: Feed
+  - title: 投喂
     url: /feed.xml
 
 
